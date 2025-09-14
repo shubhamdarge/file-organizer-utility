@@ -67,9 +67,3 @@ requirements.txt       # pytest for tests (stdlib for tool)
 .gitignore
 README.md
 ```
-
-## Why this project?
-
-- Shows **scripting & automation** skills.
-- Clean, testable design with separation of concerns.
-- No external dependencies (except `pytest` for tests).
