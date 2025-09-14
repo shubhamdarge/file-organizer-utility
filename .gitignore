@@ -85,3 +85,7 @@ Temporary Items
 
 # env files
 .env
+
+# Organizer runtime files
+moves.json
+*.manifest.json
